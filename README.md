@@ -1,6 +1,3 @@
-# OOP-lab
-
-
 import java.text.SimpleDateFormat;
 import java.util.*;
 
